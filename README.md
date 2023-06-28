@@ -8,12 +8,12 @@ AHG is a global manufacturing organisation with operations in America, Europe an
 
 
 ## Problem Statement
-AHG has been experiencing a shift in the market place towards digital which is possibly leading to decline in its’s store sales – Is this true and can it be proven with data?
-AHG is also experiencing a decline in it’s store sales as a result of change in customer demographics - Is this true and can it be proven with data?
-Identify the products and regions that are performing badly against the market or when benchmarked against manufacturers of similar products
-Identify most profitable products, regions, sales channel and customer demography
-If products where to be shelved in the stores, or advertised online, what products may be shelved together given that these products are historically purchased together. Association analysis?
-What should AHG Digital strategy be? Should it close its stores(it doesn’t have a store, only resellers, which resellers have low impact- can we move end terms with them?) and migrate fully online across all regions, some regions(some resellers based on regions)? If some, which regions should be migrated fully online, and what is the likely impact of this aggressive strategy (cost benefit analysis – volume and revenue)?
+- AHG has been experiencing a shift in the market place towards digital which is possibly leading to decline in its’s store sales – Is this true and can it be proven with data?
+- AHG is also experiencing a decline in it’s store sales as a result of change in customer demographics - Is this true and can it be proven with data?
+- Identify the products and regions that are performing badly against the market or when benchmarked against manufacturers of similar products
+- Identify most profitable products, regions, sales channel and customer demography
+- If products were to be shelved in the stores, or advertised online, what products may be shelved together given that these products are historically purchased together. Association analysis?
+- What should AHG Digital strategy be? Should it close its stores(it doesn’t have a store, only resellers, which resellers have low impact- can we move end terms with them?) and migrate fully online across all regions, some regions(some resellers based on regions)? If some, which regions should be migrated fully online, and what is the likely impact of this aggressive strategy (cost benefit analysis – volume and revenue)?
 
 ## Data Sourcing
 Data was sourced from AdeventureWorks Database DW2017 and was imported into Microsoft Power BI for cleaning, analysis and visualization while data of competitors was sourced from an excel file.
@@ -76,6 +76,8 @@ Ass.Analysis2                 |                Ass.Analysis3
 - AHG should introduce promotional features such as loyalty offers, gift vouchers, additional products etc. to attract new customers and retain existing ones
 - Increase investment in other production lines which includes accessories and clothing. This is to enhance production, market competitiveness, earn a higher return on investment and market share
 - There is an urgent need to improve on delivery days by ensuring that products are delivered within the specified period. This rebuilds customer confidence
-- The need to identify new potential markets with less competition cannot be overemphasized. This is to focus on new customers to purchase the products
+- The need to identify new potential markets with less competition cannot be overemphasized. This is to focus on new customers to purchase the products.
+
+
 
 
